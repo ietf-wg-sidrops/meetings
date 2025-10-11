@@ -14,9 +14,15 @@ Create a Pull Request appending the request to this file using the format:
 ### Current Pending Requests
 
 #### The Erik Synchronization Protocol for use with the Resource Public Key Infrastructure (RPKI)
-- Speaker: Job Snijder
-- Desired Duration: 20 Minutes
+- Speaker: Job Snijders
+- Desired Duration: 15 Minutes
 - https://datatracker.ietf.org/doc/draft-spaghetti-sidrops-rpki-erik-protocol/
+
+---
+#### A Profile for Resource Public Key Infrastructure (RPKI) Canonical Cache Representation (CCR)
+- Speaker: Job Snijders
+- Desired Duration: 5 Minutes
+- https://datatracker.ietf.org/doc/draft-spaghetti-sidrops-rpki-ccr/
 
 ---
 #### Transition to Full BGPsec Deployment: Transitive-BGPsec is Incompatible with BGPsec
