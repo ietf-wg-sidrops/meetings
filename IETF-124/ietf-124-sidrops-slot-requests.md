@@ -42,3 +42,19 @@ Create a Pull Request appending the request to this file using the format:
 - Desired Duration: 10 Minutes
 - https://datatracker.ietf.org/doc/draft-fu-sidrops-enhanced-slurm-filter/
 
+---
+#### Open Source Tools for RP Testing
+
+- Speaker(s): Jorge Cano / Carlos Martinez
+- Desired Duration : 10 min
+
+We would like to briefly present two open source tools the LACNIC team has published in 2025 aimed at providing better support for testing relying party implementations.
+
+##### Barry
+https://github.com/LACNIC/barry
+A program that converts Repository Descriptors (minimal and mostly JSON-like input) into fully-fledged and maximally-correct RPKI hierarchies (TAL, RPKI certificates, ROAs, CRLs, Manifests and RRDP XMLs), meant for Relying Party testing.
+  
+##### Rapport
+  https://github.com/LACNIC/rapport 
+  A black-box test suite that employs Barry to feed (both correct and incorrect) repositories to Relying Parties, and verify their resilience and output.
+  Currently, it supports Fort, Routinator, rpki-client and rpki-prover out of the box.
