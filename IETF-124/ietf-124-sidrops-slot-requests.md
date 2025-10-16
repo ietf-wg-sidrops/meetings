@@ -13,6 +13,11 @@ Create a Pull Request appending the request to this file using the format:
 
 ### Current Pending Requests
 
+#### RPKI to Router Protocol over QUIC
+- Speaker: Shengnan Yue 
+- Desired Duration: 8 Minutes
+- Link to related document in the Datatracker:  https://datatracker.ietf.org/doc/draft-liu-sidrops-rpki-rtr-over-quic/
+
 #### The Erik Synchronization Protocol for use with the Resource Public Key Infrastructure (RPKI)
 - Speaker: Job Snijders
 - Desired Duration: 15 Minutes
