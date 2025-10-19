@@ -49,6 +49,12 @@ Create a Pull Request appending the request to this file using the format:
 - https://datatracker.ietf.org/doc/draft-fu-sidrops-enhanced-slurm-filter/
 
 ---
+#### RPKI-based Validation with Prioritized Resource Data
+- Speaker: Jia Zhang / Nan Geng
+- Desired Duration: 10 Minutes
+- https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
+
+---
 #### Open Source Tools for RP Testing
 
 - Speaker(s): Jorge Cano / Carlos Martinez
