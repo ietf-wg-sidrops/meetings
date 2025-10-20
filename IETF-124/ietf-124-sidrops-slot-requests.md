@@ -70,3 +70,10 @@ A program that converts Repository Descriptors (minimal and mostly JSON-like inp
   https://github.com/LACNIC/rapport 
   A black-box test suite that employs Barry to feed (both correct and incorrect) repositories to Relying Parties, and verify their resilience and output.
   Currently, it supports Fort, Routinator, rpki-client and rpki-prover out of the box.
+---
+#### NRO TA Constraints
+
+- Speaker: Tim Bruijnzeels
+- Desired Duration: 15 min
+- https://www.ietf.org/archive/id/draft-nro-sidrops-ta-constraints-00.txt
+---
