@@ -55,6 +55,13 @@ Create a Pull Request appending the request to this file using the format:
 - https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
 
 ---
+#### BGP AS_PATH Verification Based on Route Path Authorizations (RPA)
+- Speaker: Shenglin Jiang / Yangfei Guo
+- Desired Duration: 5 Minutes
+- https://datatracker.ietf.org/doc/draft-guo-sidrops-rpa-profile/
+- https://datatracker.ietf.org/doc/draft-xu-sidrops-rpa-verification/
+
+---
 #### Open Source Tools for RP Testing
 
 - Speaker(s): Jorge Cano / Carlos Martinez
