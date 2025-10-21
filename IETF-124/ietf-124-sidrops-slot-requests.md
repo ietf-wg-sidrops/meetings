@@ -84,3 +84,9 @@ A program that converts Repository Descriptors (minimal and mostly JSON-like inp
 - Desired Duration: 15 min
 - https://www.ietf.org/archive/id/draft-nro-sidrops-ta-constraints-00.txt
 ---
+
+#### Title: RPKI Repository Delta Protocol (RRDP) Delta File Retention Policy
+- Presenter: Libin Liu
+- Time needed: 10 minutes
+- Draft link: https://datatracker.ietf.org/doc/draft-liu-sidrops-rrdp-delta-retention-policy/
+
