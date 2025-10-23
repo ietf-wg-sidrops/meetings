@@ -111,4 +111,4 @@ SECRETARY: Krishnaswamy Ananthamurthy (kriswamy AT cisco.com)
 #### A.4. RPKI Repository Delta Protocol (RRDP) Delta File Retention Policy
 - Speaker: Libin Liu
     - https://datatracker.ietf.org/doc/draft-liu-sidrops-rrdp-delta-retention-policy/
-- Desired Durqtion: 10 minutes
+- Desired Duration: 10 minutes
