@@ -90,7 +90,7 @@ SECRETARY: Krishnaswamy Ananthamurthy (kriswamy AT cisco.com)
 ### IF TIME ALLOWS
 
 #### A.1. RPKI to Router Protocol over QUIC
-- Speaker: Shengnan Yue 
+- Speaker: Jishnu Roy 
     - https://datatracker.ietf.org/doc/draft-liu-sidrops-rpki-rtr-over-quic/
 - Desired Duration: 8 Minutes
 <br><br>
