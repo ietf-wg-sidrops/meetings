@@ -24,3 +24,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Duration: 15 minutes including Q&A
 - Abstract: Share progress update on what changed in Erik Synchronization specification since last meeting
 - Datatracker: https://datatracker.ietf.org/doc/draft-ietf-sidrops-rpki-erik-protocol/
+
+#### A Profile for ROV Deployment Transparency
+- Speaker: Sitong Ling
+- Desired Duration: 10 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
