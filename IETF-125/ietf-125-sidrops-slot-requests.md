@@ -29,3 +29,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Sitong Ling
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
+
+#### RPKI Repository Delta Protocol (RRDP) Delta File Retention Policy
+- Speaker: Libin Liu  
+- Duration: 10 minutes including Q&A  
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-liu-sidrops-rrdp-delta-retention-policy/ 
