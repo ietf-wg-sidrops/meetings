@@ -13,11 +13,11 @@ Create a Pull Request appending, at the end of this very file, the request using
 
 ### Current Pending Requests
 
-#### The Structure of RPKIViews
+#### The RPKISPOOL format data materialization as used in RPKIViews
 - Speaker: Job Snijders
 - Duration: 20 minutes including Q&A
-- Abstract: Share information on how RPKIViews uses CCR for data captures of the global RPKI
-- Datatracker link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-rpki-ccr/
+- Abstract: Share information on how RPKIViews uses Tar, Zstd, and CCR for raw data captures of the global RPKI
+- Datatracker link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-rpki-ccr/ & forthcoming RPKISPOOl draft
 
 #### Update on the Erik Synchronization Protocol
 - Speaker: Job Snijders
