@@ -29,3 +29,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Sitong Ling
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
+
+#### Considerations for On-Demand Retrieval of Multiple RPKI Object Types
+- Speaker: Lancheng Qin
+- Desired Duration: 5 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-shi-sidrops-rpki-on-demand/
