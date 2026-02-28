@@ -29,3 +29,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Sitong Ling
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
+
+#### ASPA-based AS_PATH Verification for BGP Export
+- Speaker: Jia Zhang
+- Desired Duration: 10 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-aspa-egress/
