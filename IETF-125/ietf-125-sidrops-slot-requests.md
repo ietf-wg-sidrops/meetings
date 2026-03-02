@@ -29,3 +29,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Sitong Ling
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
+
+####  Operational Monitoring of RPKI Repositories Health and Safety
+- Speaker: Yonghong Fu
+- Desired Duration: 10 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-fu-sidrops-rpki-repositories-monitoring/
