@@ -29,3 +29,9 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Sitong Ling
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
+
+#### TLS Authentication for BGP
+- Speaker: Jeffrey Haas, Bob Beck
+- Desired Duration: 10 minutes including Q&A
+- Abstract: A PKI for BGP TLS authentication.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-hbq-bgp-tls-auth/
