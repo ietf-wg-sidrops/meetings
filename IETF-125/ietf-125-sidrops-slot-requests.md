@@ -30,6 +30,14 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
 
+#### Update to SOA based SAV
+- Speaker: Minglin Jia
+- Desired Duration: 15 minutes including Q&A
+- Abstract: Report revisions to the SOA profile and usage documents in response to prior feedback, with deployability improving efforts.
+- Datatracker Link:
+  - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-profile/
+  - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-usage/
+
 #### RPKI Repository Delta Protocol (RRDP) Delta File Retention Policy
 - Speaker: Libin Liu  
 - Duration: 10 minutes including Q&A  
