@@ -42,3 +42,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Libin Liu  
 - Duration: 10 minutes including Q&A  
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-liu-sidrops-rrdp-delta-retention-policy/ 
+
+#### RPKI-based BGP Origin Attestation
+- Speaker: Mingqing Huang
+- Desired Duration: 15 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-huang-idr-bgp-origin-attestation/
