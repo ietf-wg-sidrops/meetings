@@ -86,3 +86,14 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-moa-profile/
 
+#### Risk of Stealthy BGP Hijacking under Incomplete Adoption of Route Origin Validation (ROV)
+- Speaker: Yi Xu
+- Desired Duration: 20 minutes including Q&A
+- Abstract: This document describes how incomplete adoption of ROV makes stealthy BGP hijacking less visible on the control plane while still capable of diverting traffic.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-li-sidrops-stealthy-hijacking/
+
+#### Structural Vulnerabilities in ASRank under Adversarial Conditions
+- Speaker: Yi Xu
+- Desired Duration: 15 minutes including Q&A
+- Abstract: This document analyzes the structural vulnerabilities of ASRank, the most widely used algorithm for inferring Autonomous System (AS) business relationships from BGP routing data.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-xu-sidrops-asrank-vulnerabilities/
