@@ -70,6 +70,11 @@ Create a Pull Request appending, at the end of this very file, the request using
    Resource Public Key Infrastructure (RPKI) to Router Protocol
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-rtr-yang/03/
 
+#### RPKI to Router Protocol over QUIC
+- Speaker: Jishnu Roy
+- Duration: 10 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-liu-sidrops-rpki-rtr-over-quic/
+
 #### TLS Authentication for BGP
 - Speaker: Jeffrey Haas, Bob Beck
 - Desired Duration: 10 minutes including Q&A
