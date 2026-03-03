@@ -13,11 +13,11 @@ Create a Pull Request appending, at the end of this very file, the request using
 
 ### Current Pending Requests
 
-#### The Structure of RPKIViews
+#### The RPKISPOOL format data materialization as used in RPKIViews
 - Speaker: Job Snijders
 - Duration: 20 minutes including Q&A
-- Abstract: Share information on how RPKIViews uses CCR for data captures of the global RPKI
-- Datatracker link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-rpki-ccr/
+- Abstract: Share information on how RPKIViews uses Tar, Zstd, and CCR for raw data captures of the global RPKI
+- Datatracker link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-rpki-ccr/ & forthcoming RPKISPOOl draft
 
 #### Update on the Erik Synchronization Protocol
 - Speaker: Job Snijders
@@ -30,7 +30,32 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
 
+#### Update to SOA based SAV
+- Speaker: Minglin Jia
+- Desired Duration: 15 minutes including Q&A
+- Abstract: Report revisions to the SOA profile and usage documents in response to prior feedback, with deployability improving efforts.
+- Datatracker Link:
+  - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-profile/
+  - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-usage/
+
+#### RPKI Repository Delta Protocol (RRDP) Delta File Retention Policy
+- Speaker: Libin Liu  
+- Duration: 10 minutes including Q&A  
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-liu-sidrops-rrdp-delta-retention-policy/ 
+
+#### RPKI-based BGP Origin Attestation
+- Speaker: Mingqing Huang
+- Desired Duration: 15 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-huang-idr-bgp-origin-attestation/
+
+#### ASPA-based AS_PATH Verification for BGP Export
+- Speaker: Jia Zhang
+- Desired Duration: 10 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-aspa-egress/
+
 #### RPKI-based Validation with Prioritized Resource Data
 - Speaker: Jia Zhang / Chongfeng Xie
 - Desired Duration: 15 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
+
+
