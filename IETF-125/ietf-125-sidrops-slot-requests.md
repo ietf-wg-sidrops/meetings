@@ -52,3 +52,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Jia Zhang
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-aspa-egress/
+
+#### RPKI-based Validation with Prioritized Resource Data
+- Speaker: Jia Zhang / Chongfeng Xie
+- Desired Duration: 15 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
+
+
