@@ -70,4 +70,10 @@ Create a Pull Request appending, at the end of this very file, the request using
    Resource Public Key Infrastructure (RPKI) to Router Protocol
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-rtr-yang/03/
 
+#### TLS Authentication for BGP
+- Speaker: Jeffrey Haas, Bob Beck
+- Desired Duration: 10 minutes including Q&A
+- Abstract: A PKI for BGP TLS authentication.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-hbq-bgp-tls-auth/
+
 
