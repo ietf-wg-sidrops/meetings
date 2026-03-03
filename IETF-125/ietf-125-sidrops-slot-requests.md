@@ -81,4 +81,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Abstract: A PKI for BGP TLS authentication.
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-hbq-bgp-tls-auth/
 
+#### A Profile for Mapping Origin Authorizations (MOAs)
+- Speaker: Chongfeng Xie
+- Desired Duration: 10 minutes including Q&A
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-ietf-sidrops-moa-profile/
 
