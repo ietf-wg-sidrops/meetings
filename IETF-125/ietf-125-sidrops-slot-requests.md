@@ -37,3 +37,8 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Datatracker Link:
   - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-profile/
   - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-usage/
+
+#### RPKI Repository Delta Protocol (RRDP) Delta File Retention Policy
+- Speaker: Libin Liu  
+- Duration: 10 minutes including Q&A  
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-liu-sidrops-rrdp-delta-retention-policy/ 
