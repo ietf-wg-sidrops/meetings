@@ -132,3 +132,9 @@ SECRETARY: Krishnaswamy Ananthamurthy (kriswamy AT cisco.com)
     - Desired Duration: 15 minutes including Q&A
     - Abstract: This document analyzes the structural vulnerabilities of ASRank, the most widely used algorithm for inferring Autonomous System (AS) business relationships from BGP routing data.
     - Datatracker Link: https://datatracker.ietf.org/doc/draft-xu-sidrops-asrank-vulnerabilities/
+
+### A.7 Selectively Synchronizing RPKI Data to Routers
+- Speaker: Yu Fu
+    - Desired Duration: 5 minutes including Q&A
+    - Abstract: The RTR protocol synchronizes all verified RPKI data to routers. The documents propose to extend SLURM or the existing RTR protocol to support selective data synchronization, so that the router only receives the data it actually needs.
+    - Datatracker Link:  https://datatracker.ietf.org/doc/draft-fu-sidrops-enhanced-slurm-filter/ and https://datatracker.ietf.org/doc/draft-geng-sidrops-rtr-selective-sync/
