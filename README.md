@@ -7,6 +7,8 @@ This repository is used to organize SIDROps sessions in the various IETF meeting
         #### Title Here
         - Speaker: Your Name
         - Desired Duration: in minutes (including Q&A)
+        - Expected outcome: The main objective of the presentation, e.g. community feedback, adoption, WGLC, etc.
+        - Abstract: abstract of the document. 
         - Datatracker Link:  link to related document(s) in the Datatracker 
 
 2. Send the information above by email to the chairs and/or secretary or create, they will take care to create the Pull Request. 
