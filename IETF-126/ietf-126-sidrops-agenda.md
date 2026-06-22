@@ -8,8 +8,18 @@ SECRETARY: Krishnaswamy Ananthamurthy (kriswamy AT cisco.com)
 
 ---
 
+### Tuesday Session III, July 21, 2026 - 120 Minutes
 
-### TBD
+- **14:00 - 16:00 Vienna (CEST)**
+    - 05:00 -> 07:00 PDT (San Francisco)
+    - 08:00 -> 10:00 EDT (New York)
+    - 12:00 -> 14:00 UTC 
+    - 20:00 -> 22:00 CST (Beijing)
+    - 22:00 -> 00:00 AEST (Sydney)
+
+***Room: [Grand Klimt Hall 2](TBD)***
+
+
 
 --- 
 ###  AGENDA
