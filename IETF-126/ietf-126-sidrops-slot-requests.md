@@ -27,3 +27,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: Community feedback on the proposed RPKI SPA Profile of Source-Selective BGP usage
 - Abstract: This draft defines the RPKI SPA profile that enables prefix holder to authorize source prefixes for source constraint routing usage.
 - Datatracker Link:  https://datatracker.ietf.org/doc/draft-braet-sidrops-spa-profile/
+
+#### ASPA Document Cluster Coordination
+- Speaker: various, Job Snijders to lead discussion
+- Desired duration: 15 minutes
+- Expected outcome: help progress ASPA cluster towards WGLC
+- Abstract: ASPA can be used for detection and mitigation of BGP route leaks. What todo items remain?
+- Datatracker link: [draft-ietf-sidrops-aspa-profile](https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-profile/]) + [draft-ietf-sidrops-aspa-verification](https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/) + [draft-ietf-sidrops-8210bis](https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/)
