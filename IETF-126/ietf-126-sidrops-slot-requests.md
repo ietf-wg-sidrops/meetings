@@ -16,7 +16,7 @@ Create a Pull Request appending, at the end of this very file, the request using
 ### Current Pending Requests
 
 #### IPv6 Mapping Prefix PDU for the RPKI-Router Protocol
-- Speaker:Guozhen Dong 
+- Speaker: Guozhen Dong 
 - Desired Duration: 10 minutes (including Q&A)
 - Expected outcome: Community feedback 
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-dong-sidrops-rpki-rtr-moa-pdu/
