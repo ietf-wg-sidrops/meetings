@@ -1,4 +1,7 @@
-# SIDROps Meetings
+# SIDROps Meetings Agenda Management 
+
+## Next SIDROps Meeting: Tuesday, 21 July 2026, 2:00 PM (CEST) 
+
 
 This repository is used to organize SIDROps sessions in the various IETF meetings. For each IETF meeting there is an IETF-XXX folder. Each folder contains a file named ietf-XXX-sidrops-slot-requests.md with the list of requested slots. To request a slot there are two options:
 
