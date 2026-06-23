@@ -41,3 +41,12 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: help progress ASPA cluster towards WGLC
 - Abstract: ASPA can be used for detection and mitigation of BGP route leaks. What todo items remain?
 - Datatracker link: [draft-ietf-sidrops-aspa-profile](https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-profile/]) + [draft-ietf-sidrops-aspa-verification](https://datatracker.ietf.org/doc/draft-ietf-sidrops-aspa-verification/) + [draft-ietf-sidrops-8210bis](https://datatracker.ietf.org/doc/draft-ietf-sidrops-8210bis/)
+
+#### Source Address Validation Using SOAs
+- Speaker: Minglin Jia
+- Desired Duration: 10 minutes (including Q&A)
+- Expected outcome: community feedback
+- Abstract: This update simplifies SOA by publishing only AS-level service profiles in RPKI, using them to establish channels for further SAV information exchange, thereby reducing repository storage and update-latency impacts.
+- Datatracker Link: 
+  - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-profile/
+  - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-usage/
