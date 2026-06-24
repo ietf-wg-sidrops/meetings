@@ -50,3 +50,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Datatracker Link: 
   - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-profile/
   - https://datatracker.ietf.org/doc/draft-ren-sidrops-soa-usage/
+  
+#### Update on Autonomous System Relationship Authorization (ASRA) Drafts
+- Speaker: K. Sriram
+- Desired duration: 15 minutes
+- Expected outcome: Community feedback on the proposed ASRA drafts  
+- Abstract: ASRA fills in a significant gap in the ASPA method by adding the capability to detect fake links in the AS_PATHs in BGP Updates propagated from providers to customers. ASRA achieves this by allowing an AS to register additional AS relationships, i.e., customers and lateral peers. It is complementary to ASPA.
+- Datatracker link: (1) draft-geng-sidrops-asra-profile: https://datatracker.ietf.org/doc/draft-geng-sidrops-asra-profile/ (2) draft-sriram-sidrops-asra-verification https://datatracker.ietf.org/doc/draft-sriram-sidrops-asra-verification/   
