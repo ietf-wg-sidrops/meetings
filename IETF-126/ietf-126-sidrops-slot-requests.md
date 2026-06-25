@@ -65,3 +65,12 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Abstract: This document defines a benchmarking methodology for evaluating RPKI Relying Party (RP) implementations in controlled laboratory environments. The methodology focuses on whether RP implementations correctly perform required validation steps and on the performance of these operations.
 - Datatracker Link: 
   - https://datatracker.ietf.org/doc/draft-qin-bmwg-rpki-rp-bench/
+  
+#### Post-Quantum Cryptography for the RPKI
+* Speaker: Tomoki Yoshikawa
+* Desired Duration: 10 minutes (including Q&A)
+* Expected outcome: Community feedback on the proposed scope, algorithm selection, and migration approach.
+* Abstract: This draft discusses the use of post-quantum signature algorithms in the RPKI, with ML-DSA-65 as the primary candidate. The presentation will introduce the proposal, initial evaluation results, and open migration considerations.
+* Datatracker Link: https://datatracker.ietf.org/doc/draft-yoshikawa-sidrops-pqc-rpki/
+
+
