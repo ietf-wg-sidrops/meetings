@@ -80,3 +80,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: Community feedback on the proposed algorithm, focus of the work and limitations
 - Abstract: This draft defines a new scheme for PATHSEC that makes use of the DNS to distribute information safely using a unique representation of AS relationships depending on the NLRI. It also describes a new verification algorithm.
 - Datatracker Link:  https://datatracker.ietf.org/doc/draft-flechier-sidrops-pava/
+
+#### Information Asymmetry and Deployment Gaps in RPKI-based Route Origin Validation
+Speaker: Weiqiang Cheng
+Desired Duration: 10 minutes (including Q&A)
+Expected outcome: community feedback
+Abstract:This draft analyzes RPKI/ROV deployment gaps and cross-plane information asymmetry, describes operational side effects, and frames the problem space for future work, without proposing new protocols.
+Datatracker Link: https://datatracker.ietf.org/doc/draft-cheng-sidrops-rpki-rov-gap-analysis/
