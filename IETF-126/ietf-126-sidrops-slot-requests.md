@@ -87,3 +87,11 @@ Desired Duration: 10 minutes (including Q&A)
 Expected outcome: community feedback
 Abstract:This draft analyzes RPKI/ROV deployment gaps and cross-plane information asymmetry, describes operational side effects, and frames the problem space for future work, without proposing new protocols.
 Datatracker Link: https://datatracker.ietf.org/doc/draft-cheng-sidrops-rpki-rov-gap-analysis/
+
+
+#### BGP Communities for Security Policy Intent
+- Speaker: Yangfei Guo
+- Desired Duration: 5 minutes (including Q&A)
+- Expected outcome: community feedback
+- Abstract: This draft defines BGP security Large Communities to convey ROV policies to downstream networks.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-guo-idr-bgp-security-policy-community/
