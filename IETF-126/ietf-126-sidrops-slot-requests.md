@@ -82,11 +82,11 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Datatracker Link:  https://datatracker.ietf.org/doc/draft-flechier-sidrops-pava/
 
 #### Information Asymmetry and Deployment Gaps in RPKI-based Route Origin Validation
-Speaker: Weiqiang Cheng
-Desired Duration: 10 minutes (including Q&A)
-Expected outcome: community feedback
-Abstract:This draft analyzes RPKI/ROV deployment gaps and cross-plane information asymmetry, describes operational side effects, and frames the problem space for future work, without proposing new protocols.
-Datatracker Link: https://datatracker.ietf.org/doc/draft-cheng-sidrops-rpki-rov-gap-analysis/
+- Speaker: Weiqiang Cheng
+- Desired Duration: 10 minutes (including Q&A)
+- Expected outcome: community feedback
+- Abstract:This draft analyzes RPKI/ROV deployment gaps and cross-plane information asymmetry, describes operational side effects, and frames the problem space for future work, without proposing new protocols.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-cheng-sidrops-rpki-rov-gap-analysis/
 
 #### Requirements for Resource Public Key Infrastructure (RPKI) Relying Parties
 - Speaker: Yingying Su
@@ -103,3 +103,10 @@ Datatracker Link: https://datatracker.ietf.org/doc/draft-cheng-sidrops-rpki-rov-
 - Abstract: This document describes a publication-point-based incremental validation procedure for RPKI RPs. The procedure is intended to reduce redundant validation work after incremental repository synchronization, while preserving the same validation result as a full top-down validation over the same repository snapshot, trust anchor set, validation policy, and validation time. This document does not change the syntax or validation semantics of any RPKI object.
 - Datatracker Link: 
   - We will upload soon.
+  
+#### RPKI to router protocol over QUIC
+- Speaker: Jishnu Roy
+- Desired Duration: 10 minutes (including Q&A)
+- Expected outcome: Community feedback on the proposal
+- Abstract: The Resource Public Key Infrastructure (RPKI) to Router Protocol provides a simple but reliable mechanism to receive cryptographically validated RPKI prefix origin data and router keys from a trusted cache. QUIC provides practical and secure semantics for the RTR protocol, particularly fast connection establishment and multi-stream carrying, thereby reducing the time required to complete RTR data synchronization. 
+- Datatracker Link:  https://datatracker.ietf.org/doc/draft-liu-sidrops-rpki-rtr-over-quic/03/
