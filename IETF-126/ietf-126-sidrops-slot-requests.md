@@ -87,3 +87,19 @@ Desired Duration: 10 minutes (including Q&A)
 Expected outcome: community feedback
 Abstract:This draft analyzes RPKI/ROV deployment gaps and cross-plane information asymmetry, describes operational side effects, and frames the problem space for future work, without proposing new protocols.
 Datatracker Link: https://datatracker.ietf.org/doc/draft-cheng-sidrops-rpki-rov-gap-analysis/
+
+#### Requirements for Resource Public Key Infrastructure (RPKI) Relying Parties
+- Speaker: Yingying Su
+- Desired Duration: 10 minutes (including Q&A)
+- Expected outcome: community feedback
+- Abstract: This document provides a single reference point for requirements for RP software for use in RPKI. It cites requirements that appear in several RPKI RFCs and related specifications, making it easier for implementers to become aware of these requirements. This document updates RFC8897 to reflect changes to the requirements and guidance specified in the relevant RPKI standards.
+- Datatracker Link: 
+  - https://datatracker.ietf.org/doc/draft-su-sidrops-rpki-rp-requirements/
+
+#### A Publication-Point-Based Incremental Validation Procedure for RPKI Relying Parties
+- Speaker: Yingying Su
+- Desired Duration: 10 minutes (including Q&A)
+- Expected outcome: community feedback
+- Abstract: This document describes a publication-point-based incremental validation procedure for RPKI RPs. The procedure is intended to reduce redundant validation work after incremental repository synchronization, while preserving the same validation result as a full top-down validation over the same repository snapshot, trust anchor set, validation policy, and validation time. This document does not change the syntax or validation semantics of any RPKI object.
+- Datatracker Link: 
+  - We will upload soon.
