@@ -88,6 +88,12 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Abstract:This draft analyzes RPKI/ROV deployment gaps and cross-plane information asymmetry, describes operational side effects, and frames the problem space for future work, without proposing new protocols.
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-cheng-sidrops-rpki-rov-gap-analysis/
 
+#### Risk of Stealthy BGP Hijacking under Incomplete Adoption of Route Origin Validation (ROV)
+- Speaker: Yi Xu
+- Desired Duration: 10 minutes including Q&A
+- Abstract: This document describes how incomplete adoption of ROV makes stealthy BGP hijacking less visible on the control plane while still capable of diverting traffic.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-li-sidrops-stealthy-hijacking/
+
 #### BGP Communities for Security Policy Intent
 - Speaker: Yangfei Guo
 - Desired Duration: 5 minutes (including Q&A)
