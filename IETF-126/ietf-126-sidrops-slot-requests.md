@@ -130,3 +130,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: community feedback
 - Abstract: This document defines a BCP for source pre-validation: an originating AS checks its intended BGP announcement against its local RPKI cache before sending it to eBGP neighbors. The goal is to reduce the number of self-inflicted invalid routes, improve global routing stability, and encourage wider and more confident deployment of ROV drop policies across the Internet - including the long tail of stub and small regional ASes.
 - Datatracker Link:  https://datatracker.ietf.org/doc/draft-huang-sidrops-source-pre-validation/
+
+#### Measuring propagation time of RPKI validity changes in the dataplane
+- Speaker: Alexander Männel
+- Desired Duration: 10 in minutes (including Q&A)
+- Expected outcome: Providing insights, community feedback
+- Abstract: We found that RPKI propagation on the dataplane is at least one order of magnitude slower than plain BGP. Invalid-to-valid transitions require 9-12 minutes, valid-to-invalid transitions need 30-42 minutes to be effective at 50% of our vantage points. Our measurements are performed from CAIDA Ark vantages points. By using the staging repository for the RIPE RPKI repository, we can perform a baseline measurement before the RPKI ecosystem reacts to potential ROA changes and track how quickly paths change by continuously performing traceroutes towards affected prefixes.
+- Datatracker Link:  None
