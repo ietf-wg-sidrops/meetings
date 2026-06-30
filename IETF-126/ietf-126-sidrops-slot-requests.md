@@ -123,3 +123,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: Community feedback on the proposal
 - Abstract: The Resource Public Key Infrastructure (RPKI) to Router Protocol provides a simple but reliable mechanism to receive cryptographically validated RPKI prefix origin data and router keys from a trusted cache. QUIC provides practical and secure semantics for the RTR protocol, particularly fast connection establishment and multi-stream carrying, thereby reducing the time required to complete RTR data synchronization. 
 - Datatracker Link:  https://datatracker.ietf.org/doc/draft-liu-sidrops-rpki-rtr-over-quic/03/
+
+#### Source Pre-validation in RPKI ROV
+- Speaker: Mingqing Huang
+- Desired Duration: 10 minutes 
+- Expected outcome: community feedback
+- Abstract: This document defines a BCP for source pre-validation: an originating AS checks its intended BGP announcement against its local RPKI cache before sending it to eBGP neighbors. The goal is to reduce the number of self-inflicted invalid routes, improve global routing stability, and encourage wider and more confident deployment of ROV drop policies across the Internet - including the long tail of stub and small regional ASes.
+- Datatracker Link:  https://datatracker.ietf.org/doc/draft-huang-sidrops-source-pre-validation/
