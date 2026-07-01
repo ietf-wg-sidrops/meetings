@@ -137,3 +137,11 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: Community feedback on the updated framework and guidance on next steps
 - Abstract: This draft discusses how operators may use signed RPKI data together with supplemental or locally configured routing-security data in local validation and filtering workflows. It focuses on priority-safe handling, so that supplemental data can support local routing policy without changing or silently overriding authoritative RPKI semantics. The presentation will summarize the latest updates, clarify the deployment models and operational trade-offs, and ask the working group for feedback on terminology, document scope, and next steps.
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
+
+#### ASPA-based AS_PATH Verification for BGP Export
+- Speaker: Jia Zhang
+- Desired Duration: 8 minutes (including Q&A)
+- Expected outcome: community feedback and whether call for WG adoption
+- Abstract: This draft describes how ASPA-based AS_PATH verification can be applied at BGP export time to detect and prevent route leaks before propagation. The presentation will summarize the latest updates, explain the current procedure including neighbor-AS-augmented verification and OTC interaction, and ask the working group whether we could call for WG adoption.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-aspa-egress/
+
