@@ -130,3 +130,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: community feedback
 - Abstract: This document defines a BCP for source pre-validation: an originating AS checks its intended BGP announcement against its local RPKI cache before sending it to eBGP neighbors. The goal is to reduce the number of self-inflicted invalid routes, improve global routing stability, and encourage wider and more confident deployment of ROV drop policies across the Internet - including the long tail of stub and small regional ASes.
 - Datatracker Link:  https://datatracker.ietf.org/doc/draft-huang-sidrops-source-pre-validation/
+
+#### ASPA-based AS_PATH Verification for BGP Export
+- Speaker: Jia Zhang
+- Desired Duration: 8 minutes (including Q&A)
+- Expected outcome: community feedback and whether call for WG adoption
+- Abstract: This draft describes how ASPA-based AS_PATH verification can be applied at BGP export time to detect and prevent route leaks before propagation. The presentation will summarize the latest updates, explain the current procedure including neighbor-AS-augmented verification and OTC interaction, and ask the working group whether we could call for WG adoption.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-aspa-egress/
