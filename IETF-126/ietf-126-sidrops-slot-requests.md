@@ -130,3 +130,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: community feedback
 - Abstract: This document defines a BCP for source pre-validation: an originating AS checks its intended BGP announcement against its local RPKI cache before sending it to eBGP neighbors. The goal is to reduce the number of self-inflicted invalid routes, improve global routing stability, and encourage wider and more confident deployment of ROV drop policies across the Internet - including the long tail of stub and small regional ASes.
 - Datatracker Link:  https://datatracker.ietf.org/doc/draft-huang-sidrops-source-pre-validation/
+
+#### RPKI-based Validation with Prioritized Resource Data
+- Speaker: Jia Zhang / Nan Geng
+- Desired Duration: 8 minutes (including Q&A)
+- Expected outcome: Community feedback on the updated framework and guidance on next steps
+- Abstract: This draft discusses how operators may use signed RPKI data together with supplemental or locally configured routing-security data in local validation and filtering workflows. It focuses on priority-safe handling, so that supplemental data can support local routing policy without changing or silently overriding authoritative RPKI semantics. The presentation will summarize the latest updates, clarify the deployment models and operational trade-offs, and ask the working group for feedback on terminology, document scope, and next steps.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-zhang-sidrops-prioritized-route-validation/
