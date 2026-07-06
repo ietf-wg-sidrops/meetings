@@ -151,3 +151,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: Providing insights, community feedback
 - Abstract: We found that RPKI propagation on the dataplane is at least one order of magnitude slower than plain BGP. Invalid-to-valid transitions require 9-12 minutes, valid-to-invalid transitions need 30-42 minutes to be effective at 50% of our vantage points. Our measurements are performed from CAIDA Ark vantages points. By using the staging repository for the RIPE RPKI repository, we can perform a baseline measurement before the RPKI ecosystem reacts to potential ROA changes and track how quickly paths change by continuously performing traceroutes towards affected prefixes.
 - Datatracker Link:  None
+
+#### Operational Monitoring of RPKI Repositories Health and Safety
+- Speaker: Yonghong Fu
+- Desired Duration: 5 minutes including Q&A
+- Expected outcome: community feedback
+- Abstract: This draft provides operational guidance for monitoring the health and safety of RPKI repositories on a per-publication point basis.  It defines measurable indicators related to reachability, availability, and content integrity, and explains how these metrics can be used to detect degraded performance or potentially unsafe behavior.
+- Datatracker Link: We will upload soon.
