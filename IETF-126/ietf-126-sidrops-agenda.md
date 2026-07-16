@@ -205,6 +205,15 @@ SECRETARY: Krishnaswamy Ananthamurthy (kriswamy AT cisco.com)
   - Abstract: This draft defines BGP security Large Communities to convey ROV policies to downstream networks.
   - Datatracker Link: 
     - https://datatracker.ietf.org/doc/draft-guo-idr-bgp-security-policy-community/
+   
+#### A.10 Selectively Synchronizing RPKI Data to Routers
+- Speaker: Yu Fu
+  - Duration: 10 minutes (including Q&A)
+  - Expected outcome: We had showed the implementation in the IETF125 Hackathon project. The main objective of the presentation is for the WG adoption.
+  - Abstract: This document proposes to filter out RPKI data by type based on enhanced SLURM filters.  Only the RPKI data types that the network or routers are interested in will appear in the Relying Party's output.
+  - Datatracker Link:
+    - https://datatracker.ietf.org/doc/draft-fu-sidrops-enhanced-slurm-filter/  , 
+    - https://datatracker.ietf.org/doc/draft-geng-sidrops-rtr-selective-sync/
 
 
 
