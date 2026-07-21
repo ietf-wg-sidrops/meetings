@@ -148,13 +148,7 @@ SECRETARY: Krishnaswamy Ananthamurthy (kriswamy AT cisco.com)
   - Datatracker Link: 
     - https://datatracker.ietf.org/doc/draft-fu-sidrops-rpki-repositories-monitoring/
   
-#### A.3 A Profile for Source Prefix Authorizations (SPAs)
-- Speaker: Kamiel Braet
-  - Desired Duration: 10 in minutes (including Q&A)
-  - Expected outcome: Community feedback on the proposed RPKI SPA Profile of Source-Selective BGP usage
-  - Abstract: This draft defines the RPKI SPA profile that enables prefix holder to authorize source prefixes for source constraint routing usage.
-  - Datatracker Link:  
-    - https://datatracker.ietf.org/doc/draft-braet-sidrops-spa-profile/
+#### ~~A.3 A Profile for Source Prefix Authorizations (SPAs)~~ WITHDRAWN
 
 #### A.4 A Publication-Point-Based Incremental Validation Procedure for RPKI Relying Parties
 - Speaker: Yingying Su
