@@ -14,3 +14,17 @@ Create a Pull Request appending, at the end of this very file, the request using
 ---
 
 ### Current Pending Requests
+
+#### Introduction to RPKI Doctors
+- Speaker: Job Snijders
+- Desired duration: 10 minutes
+- Expected outcome: community feedback
+- Abstract: Explain objective and approach of RPKI Doctors review team
+- Datatracker link: [https://datatracker.ietf.org/group/rpkidoctors/about/](https://datatracker.ietf.org/group/rpkidoctors/about/)
+
+#### Mixed Algorithm Certificate Chains in the RPKI
+- Speaker: Job Snijders
+- Desired duration: 15 minutes
+- Expected outcome: community feedback / call for WG adoption
+- Abstract: Discussion on the concept of using mixed signing algorithm certificate chains in the RPKI. Permitting a second (widely supported) signing algorithm in the RPKI allows for smaller signatures in the short term and gaining operational experience towards PQ transitions in the long term.   
+- Datatracker link: To be posted
