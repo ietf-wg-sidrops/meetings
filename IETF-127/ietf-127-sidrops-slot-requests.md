@@ -92,3 +92,10 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Abstract:The draft defines an IPFIX Information Element to export the RPKI-based BGP Prefix Origin Validation state (valid/invalid/not-found) for the active Loc-RIB route. It gives operators standardized visibility into ROV outcomes alongside flow monitoring, helping detect hijacks/misconfigurations and bridging SIDR operations with existing IPFIX tooling. 
 - Datatracker Link: [https://datatracker.ietf.org/doc/draft-liu-sidrops-ipfix-bgp-pov/](https://datatracker.ietf.org/doc/draft-liu-sidrops-ipfix-bgp-pov/)
    
+#### IPv6 Mapping Prefix PDU for the RPKI-Router Protocol
+- Speaker: Guozhen Dong
+- Desired Duration: 10 minutes
+- Expected outcome: call for WG adoption
+- Abstract:The draft defines a new Protocol Data Unit (PDU) type for the RPKI to Router Protocol to convey Mapping Origin Authorization (MOA) information from RPKI caches to routers.
+- Datatracker Link: https://datatracker.ietf.org/doc/draft-dong-sidrops-rpki-rtr-moa-pdu/
+  
