@@ -92,7 +92,7 @@ SECRETARY: Krishnaswamy Ananthamurthy (kriswamy AT cisco.com)
     - Duration: 10 minutes (Cumulative Time: *65 Minutes*)
 - Expected outcome: community feedback
 - Abstract: Using SODA, a validator performing Route Origin Validation (ROV) can determine whether an ROV-Invalid result reflects an authorized delegation rather than a route hijack.
-- Datatracker link: [https://datatracker.ietf.org/doc/draft-jiang-idr-bgp-soda/](https://datatracker.ietf.org/doc/draft-jiang-idr-bgp-soda/)
+- Datatracker link: [draft-jiang-idr-bgp-soda](https://datatracker.ietf.org/doc/draft-jiang-idr-bgp-soda/)
 
 
 #### 7. Information Asymmetry and Deployment Gaps in RPKI-based Route Origin Validation
